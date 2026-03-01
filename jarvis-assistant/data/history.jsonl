@@ -1,0 +1,16 @@
+{"timestamp": "2026-03-01 00:40:18", "source": "voice", "user": "who is", "jarvis": "I didn't understand that. Type 'help' to view commands."}
+{"timestamp": "2026-03-01 00:41:25", "source": "text", "user": "help", "jarvis": "Commands: time, date, open <site>, open app <name>, search <topic>, remind me in 10 minutes to <task>, note <text>, show notes, ask <question>, history, whatsapp to <phone> <msg>, email to <mail> subject <s> body <b>, learn face <name>, recognize face, hotword on/off"}
+{"timestamp": "2026-03-01 00:45:51", "source": "text", "user": "search who is PM of india", "jarvis": "Searching for who is pm of india."}
+{"timestamp": "2026-03-01 00:45:58", "source": "text", "user": "help", "jarvis": "Commands: time, date, open <site>, open app <name>, search <topic>, remind me in 10 minutes to <task>, note <text>, show notes, ask <question>, history, whatsapp to <phone> <msg>, email to <mail> subject <s> body <b>, learn face <name>, recognize face, hotword on/off"}
+{"timestamp": "2026-03-01 00:46:07", "source": "text", "user": "learn face", "jarvis": "I didn't understand that. Type 'help' to view commands."}
+{"timestamp": "2026-03-01 00:46:29", "source": "text", "user": "learn face roshan", "jarvis": "Face learned for roshan."}
+{"timestamp": "2026-03-01 00:46:46", "source": "text", "user": "reconize face", "jarvis": "I didn't understand that. Type 'help' to view commands."}
+{"timestamp": "2026-03-01 00:47:04", "source": "text", "user": "recognize face", "jarvis": "I recognize you as roshan."}
+{"timestamp": "2026-03-01 00:47:20", "source": "text", "user": "voice mood", "jarvis": "I didn't understand that. Type 'help' to view commands."}
+{"timestamp": "2026-03-01 00:50:46", "source": "voice", "user": "switch to text mode", "jarvis": "Switching to text mode."}
+{"timestamp": "2026-03-01 01:00:51", "source": "text", "user": "help", "jarvis": "Commands: time, date, open <site>, open app <name>, search <topic>, remind me in 10 minutes to <task>, note <text>, show notes, ask <question>, history, whatsapp to <phone> <msg>, email to <mail> subject <s> body <b>, learn face <name>, recognize face, hotword on/off, switch to voice mode, switch to text mode"}
+{"timestamp": "2026-03-01 01:01:10", "source": "text", "user": "switch to voice mode", "jarvis": "Switching to voice mode."}
+{"timestamp": "2026-03-01 01:01:50", "source": "voice", "user": "open app whatsapp", "jarvis": "I don't have a shortcut for whatsapp yet."}
+{"timestamp": "2026-03-01 01:02:14", "source": "voice", "user": "can i give you access to whatsapp", "jarvis": "I didn't understand that. Type 'help' to view commands."}
+{"timestamp": "2026-03-01 01:02:35", "source": "voice", "user": "switch to voice mode", "jarvis": "Switching to voice mode."}
+{"timestamp": "2026-03-01 01:02:50", "source": "voice", "user": "to voice mode", "jarvis": "I didn't understand that. Type 'help' to view commands."}
